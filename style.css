@@ -1,0 +1,81 @@
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+}
+.text-left {
+  background-color: #98fb98;
+}
+
+.text-left input {
+  margin: 5px 0px 5px 5px;
+  width: 20%;
+  text-align: right;
+}
+
+.year-manth {
+  display: flex;
+}
+
+.text-right {
+  background-color: #98fb98;
+}
+
+.text-right input {
+  margin: 5px 0px 5px 5px;
+  width: 30%;
+}
+
+.menu {
+  text-align: center;
+}
+
+.wide-day {
+  width: 5%;
+  font-weight: bold;
+}
+
+.wide {
+  width: 10%;
+  font-weight: bold;
+}
+
+.wide-memo {
+  font-weight: bold;
+}
+
+.box {
+  text-align: center;
+}
+
+.txtCal {
+  height: 40px;
+  text-align: right;
+}
+
+.trfCal {
+  height: 40px;
+  text-align: right;
+}
+
+.text-space-memo input {
+  height: 40px;
+  width: 97%;
+}
+
+.total {
+  text-align: right;
+  font-weight: bold;
+}
+
+.confirm {
+  text-align: right;
+}
+
+.text-space{
+  height: 40px;
+  text-align: right;
+}
